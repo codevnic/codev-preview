@@ -2,7 +2,7 @@
 const w = window;
 
 // Timing Function
-var countDownDate = new Date("Apr 30, 2018 12:00:00").getTime();
+var countDownDate = new Date("May 15, 2018 12:00:00").getTime();
 var countdownfunction = setInterval(function() {
 
     // Get todays date and time
